@@ -4,7 +4,7 @@
         "name": "Peppy Paneer",
         "price": 399,
         "size": "Medium",
-        "image": "./images/Peppy_Paneer.jpg",
+        "image": "/images/Peppy_Paneer.jpg",
         "createdAt": {
             "image": "uploads/1619798003389-788648576.png",
             "$date": "2021-04-30T15:53:23.393Z"
@@ -18,7 +18,7 @@
         "name": "Deluxe Veggie",
         "price": 459,
         "size": "Small",
-        "image": "./images/Deluxe_Veggie.jpg",
+        "image": "/images/Deluxe_Veggie.jpg",
         "createdAt": {
             "image": "uploads/1619798028739-356043472.png",
             "$date": "2021-04-30T15:53:48.741Z"
@@ -32,7 +32,7 @@
         "name": "Margherita",
         "price": 199,
         "size": "Medium",
-        "image": "./images/margherit.jpg",
+        "image": "/images/margherit.jpg",
         "createdAt": {
             "image": "uploads/1619798136362-377165689.png",
             "$date": "2021-04-30T15:55:36.364Z"
@@ -46,7 +46,7 @@
         "name": "Cheese Margherita",
         "price": 339,
         "size": "Large",
-        "image": "./images/Cheese_Margherita.jpg",
+        "image": "/images/Cheese_Margherita.jpg",
         "createdAt": {
             "image": "uploads/1619798154274-595975749.png",
             "$date": "2021-04-30T15:55:54.276Z"
@@ -60,7 +60,7 @@
         "name": "Farm House",
         "price": 399,
         "size": "Large",
-        "image": "./images/Farmhouse.jpg",
+        "image": "/images/Farmhouse.jpg",
         "createdAt": {
             "image": "uploads/1619798169571-671551234.png",
             "$date": "2021-04-30T15:56:09.573Z"
@@ -74,7 +74,7 @@
         "name": "Mexican Green Wave",
         "price": 399,
         "size": "Small",
-        "image": "./images/Mexican_Green_Wave.jpg",
+        "image": "/images/Mexican_Green_Wave.jpg",
         "createdAt": {
             "image": "uploads/1619798195141-748496629.png",
             "$date": "2021-04-30T15:56:35.142Z"
@@ -88,7 +88,7 @@
         "name": "Veg Extra Vaganza",
         "price": 459,
         "size": "Large",
-        "image": "./images/Veg_Extravaganz.jpg",
+        "image": "/images/Veg_Extravaganz.jpg",
         "createdAt": {
             "image": "uploads/1619798224663-303286145.png",
             "$date": "2021-04-30T15:57:04.665Z"
@@ -102,7 +102,7 @@
         "name": "Corn & Cheese",
         "price": 309,
         "size": "Medium",
-        "image": "./images/Corn_&_Cheese.jpg",
+        "image": "/images/Corn_&_Cheese.jpg",
         "createdAt": {
             "image": "uploads/1619798248317-105704752.png",
             "$date": "2021-04-30T15:57:28.319Z"
@@ -116,7 +116,7 @@
         "name": "Indian Tandoori Paneer",
         "price": 459,
         "size": "Small",
-        "image": "./images/IndianTandooriPaneer.jpg",
+        "image": "/images/IndianTandooriPaneer.jpg",
         "createdAt": {
             "image": "uploads/1619798276630-463888204.png",
             "$date": "2021-04-30T15:57:56.632Z"
@@ -130,7 +130,7 @@
         "name": "Veggie Paradise",
         "price": 399,
         "size": "Small",
-        "image": "./images/Veggie_Paradise.jpg",
+        "image": "/images/Veggie_Paradise.jpg",
         "createdAt": {
             "image": "uploads/1619798368145-612682611.png",
             "$date": "2021-04-30T15:59:28.146Z"
@@ -144,7 +144,7 @@
         "name": "Tomato",
         "price": 309,
         "size": "Medium",
-        "image": "./images/pizza_mania_tomato.png",
+        "image": "/images/pizza_mania_tomato.png",
         "createdAt": {
             "image": "uploads/1619798276630-463888204.png",
             "$date": "2021-04-30T15:57:56.632Z"
@@ -158,7 +158,7 @@
         "name": "Veg Loaded",
         "price": 145,
         "size": "Medium",
-        "image": "./images/PrimeLoadedL.jpg",
+        "image": "/images/PrimeLoadedL.jpg",
         "createdAt": {
             "image": "uploads/1619798368145-612682611.png",
             "$date": "2021-04-30T15:59:28.146Z"
@@ -172,7 +172,7 @@
         "name": "Cheesy",
         "price": 99,
         "size": "Small",
-        "image": "./images/PrimeCheesyL.jpg",
+        "image": "/images/PrimeCheesyL.jpg",
         "createdAt": {
             "image": "uploads/1619798276630-463888204.png",
             "$date": "2021-04-30T15:57:56.632Z"
@@ -186,7 +186,7 @@
         "name": "Capsicum Veg",
         "price": 79,
         "size": "Large",
-        "image": "./images/CapsicumVeg.jpg",
+        "image": "/images/CapsicumVeg.jpg",
         "createdAt": {
             "image": "uploads/1619798368145-612682611.png",
             "$date": "2021-04-30T15:59:28.146Z"
@@ -200,7 +200,7 @@
         "name": "Golden Corn Veg",
         "price": 85,
         "size": "Large",
-        "image": "./images/golden_corn_veg.jpg",
+        "image": "/images/golden_corn_veg.jpg",
         "createdAt": {
             "image": "uploads/1619798368145-612682611.png",
             "$date": "2021-04-30T15:59:28.146Z"
